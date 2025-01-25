@@ -58,17 +58,6 @@ This project analyzes video game sales data to identify trends, uncover insights
 
 ---
 
-## 📁 Repository Structure
-```
-|-- data/                     # Dataset files
-|-- scripts/                  # Jupyter notebooks for analysis
-|-- visualizations/           # Graphs and visual outputs
-|-- README.md                 # Project overview and instructions
-|-- Project_2 (1).ipynb       # Main notebook for the analysis
-```
-
----
-
 ## 📩 Contact
 For questions or collaboration:
 
